@@ -1,10 +1,11 @@
 ## Plain Folk of the South - Frank Owsley
 
-You can use the [editor on GitHub](https://github.com/kalanicraig/H301Spr2022IUB.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+it was the first history to make use of a computer to sample tax returns and the U.S. census,
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+https://cdn.shopify.com/s/files/1/0586/1385/8477/products/img_7f2f6762-83bf-41e3-adb1-762b75d4b5a6_267x.jpg?v=1631187112
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
